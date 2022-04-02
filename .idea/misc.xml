@@ -8,6 +8,12 @@
         <entry key="..\:/Programming/Kotlin/CodePath Android Development/Instagram/app/src/main/res/layout/activity_main.xml" value="0.4276041666666667" />
         <entry key="..\:/Programming/Kotlin/CodePath Android Development/Instagram/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.228" />
         <entry key="..\:/Programming/Kotlin/CodePath Android Development/Instagram/app/src/main/res/xml/fileprovider.xml" value="0.4276041666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_compose.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/item_post.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.35625" />
       </map>
     </option>
   </component>
